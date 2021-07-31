@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProjetoCrudProdutos.Data.Context;
 using ProjetoCrudProdutos.Domain;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace ProjetoCrudProdutos.Controllers {
 
