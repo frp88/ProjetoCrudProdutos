@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using ProjetoCrudProdutos.Models;
+using ProjetoCrudProdutos.Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace ProjetoCrudProdutos.Data.Repositories {

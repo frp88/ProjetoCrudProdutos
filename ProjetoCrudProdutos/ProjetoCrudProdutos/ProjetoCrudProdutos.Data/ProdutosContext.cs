@@ -1,4 +1,4 @@
-﻿using ProjetoCrudProdutos.Models;
+﻿using ProjetoCrudProdutos.Domain;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;

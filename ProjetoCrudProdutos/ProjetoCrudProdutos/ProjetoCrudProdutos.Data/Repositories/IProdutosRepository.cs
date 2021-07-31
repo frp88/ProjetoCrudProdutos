@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using ProjetoCrudProdutos.Models;
+﻿using ProjetoCrudProdutos.Domain;
+using System.Collections.Generic;
 
 namespace ProjetoCrudProdutos.Data.Repositories {
     public interface IProdutosRepository {

@@ -1,0 +1,16 @@
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.AssemblyInfo.cs
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.exe
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.deps.json
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.runtimeconfig.json
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.runtimeconfig.dev.json
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\bin\Debug\net5.0\ref\ProjetoCrudProdutos.Domain.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.pdb
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ref\ProjetoCrudProdutos.Domain.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.pdb
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Domain\obj\Debug\net5.0\ProjetoCrudProdutos.Domain.genruntimeconfig.cache

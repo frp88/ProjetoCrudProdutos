@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProjetoCrudProdutos.Models;
+using ProjetoCrudProdutos.Domain;
 using ProjetoCrudProdutos.Data.Context;
 using System;
 using System.Collections.Generic;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4c05LKVtaTxwQ2s/3dG/GAGZuYXhvmd5ssqelrVcFOst+fCBSru/V/okUtuvTuwYSpegQmqWrQ6ekC83yv1RCQ==",
+  "dgSpecHash": "Nq3l+w4q0mVGJO4EvFNrVhwIDN2o75iPoDNDof/LuFQql0oE23Ges9yO4iusMMjLDvdALtneiHcC7RgRqmVZiQ==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.csproj",
+  "projectFilePath": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ProjetoCrudProdutos.Models {
+﻿namespace ProjetoCrudProdutos.Domain {
     public class Produto {
         public long? Id { get; set; }
         public string Nome { get; set; }
