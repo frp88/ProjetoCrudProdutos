@@ -1,0 +1,12 @@
+﻿using Microsoft.EntityFrameworkCore;
+using ProjetoCrudProdutos.Domain;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace ProjetoCrudProdutos.Data.Context {
+    public class ProjetoCrudProdutosContext : DbContext {
+        public ProjetoCrudProdutosContext(DbContextOptions<ProjetoCrudProdutosContext> options) : base(options) { }
+
+        public DbSet<Produto> Produtos { get; set; }
+    }
+}

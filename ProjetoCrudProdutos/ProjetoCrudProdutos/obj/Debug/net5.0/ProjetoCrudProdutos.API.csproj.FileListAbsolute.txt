@@ -13,11 +13,9 @@ D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\ProjetoCrudProdutos.API.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\ref\ProjetoCrudProdutos.API.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\ProjetoCrudProdutos.API.pdb
-D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Humanizer.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -61,3 +59,5 @@ D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\obj\Debug\net5.0\ProjetoCrudProdutos.API.pdb
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\obj\Debug\net5.0\ProjetoCrudProdutos.API.genruntimeconfig.cache
 D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\obj\Debug\net5.0\ProjetoCrudProdutos.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\ProjetoCrudProdutos.Data.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos\bin\Debug\net5.0\ProjetoCrudProdutos.Data.pdb

@@ -19,7 +19,7 @@ namespace ProjetoCrudProdutos {
         public void ConfigureServices(IServiceCollection services) {
 
             // Define o contexto que sera utilizado
-            services.AddDbContext<ProdutosContext>(
+            services.AddDbContext<ProjetoCrudProdutosContext>(
                 // Referencia o BD
                 context => context.UseSqlServer(Configuration.GetConnectionString("Default"))
             );
