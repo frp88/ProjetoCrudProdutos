@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoCrudProdutos.API", "ProjetoCrudProdutos\ProjetoCrudProdutos.API.csproj", "{6656B094-43B7-4F5A-ABD6-E9110FE38840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCrudProdutos.Data", "ProjetoCrudProdutos.Data\ProjetoCrudProdutos.Data.csproj", "{AEF168A2-9E96-47D6-BA39-4508B0776D12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoCrudProdutos.Data", "ProjetoCrudProdutos.Data\ProjetoCrudProdutos.Data.csproj", "{AEF168A2-9E96-47D6-BA39-4508B0776D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCrudProdutos.Domain", "ProjetoCrudProdutos.Domain\ProjetoCrudProdutos.Domain.csproj", "{61CB7203-CEFD-407B-B5C8-C115A728A525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoCrudProdutos.Domain", "ProjetoCrudProdutos.Domain\ProjetoCrudProdutos.Domain.csproj", "{61CB7203-CEFD-407B-B5C8-C115A728A525}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
