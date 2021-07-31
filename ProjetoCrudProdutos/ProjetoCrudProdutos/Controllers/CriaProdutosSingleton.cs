@@ -1,4 +1,5 @@
-﻿using ProjetoCrudProdutos.Domain;
+﻿using System;
+using ProjetoCrudProdutos.Domain;
 using System.Collections.Generic;
 
 namespace ProjetoCrudProdutos.Controllers {

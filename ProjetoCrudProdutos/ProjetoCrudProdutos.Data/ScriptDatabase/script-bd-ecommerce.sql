@@ -7,6 +7,8 @@ CREATE TABLE produtos(
 	Nome nvarchar(100) NOT NULL,
 	Estoque int NOT NULL,
 	Valor decimal(10,2) NOT NULL,
+	DataCadastro datetime NULL,
+	DataAtualizacao datetime NULL,
 	PRIMARY KEY (Id)
 );
 
