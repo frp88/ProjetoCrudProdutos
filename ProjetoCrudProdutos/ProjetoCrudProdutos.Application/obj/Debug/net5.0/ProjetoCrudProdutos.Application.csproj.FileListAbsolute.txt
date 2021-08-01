@@ -1,0 +1,17 @@
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ProjetoCrudProdutos.Application.deps.json
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ProjetoCrudProdutos.Application.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ref\ProjetoCrudProdutos.Application.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ProjetoCrudProdutos.Application.pdb
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ProjetoCrudProdutos.Data.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ProjetoCrudProdutos.Data.pdb
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\bin\Debug\net5.0\ProjetoCrudProdutos.Domain.pdb
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.AssemblyInfo.cs
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.csproj.CopyComplete
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ref\ProjetoCrudProdutos.Application.dll
+D:\Documentos\GitHub\ProjetoCrudProdutos\ProjetoCrudProdutos\ProjetoCrudProdutos.Application\obj\Debug\net5.0\ProjetoCrudProdutos.Application.pdb

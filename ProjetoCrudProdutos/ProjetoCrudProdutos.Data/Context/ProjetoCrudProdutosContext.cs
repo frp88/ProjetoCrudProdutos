@@ -6,5 +6,6 @@ namespace ProjetoCrudProdutos.Data.Context {
         public ProjetoCrudProdutosContext(DbContextOptions<ProjetoCrudProdutosContext> options) : base(options) { }
 
         public DbSet<Produto> Produtos { get; set; }
+
     }
 }
