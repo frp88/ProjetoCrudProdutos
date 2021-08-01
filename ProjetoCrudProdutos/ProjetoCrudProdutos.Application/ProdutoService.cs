@@ -1,17 +1,15 @@
 ﻿using ProjetoCrudProdutos.Data.Context;
 using ProjetoCrudProdutos.Domain;
-using System;
-
 using System.Collections.Generic;
 using System.Linq;
 
 namespace ProjetoCrudProdutos.Application {
 
-    public class ProdutosService {
+    public class ProdutoService : IProdutoService {
 
-        private readonly ProjetoCrudProdutosContext _context;
+        private readonly ProjetoCrudProdutosContext _context;               
 
-        public ProdutosService(ProjetoCrudProdutosContext context) {
+        public ProdutoService(ProjetoCrudProdutosContext context) {
             _context = context;
             // Verifica se já tem produtos cadastrados na tabela do BD
             temProdutosNoDb();

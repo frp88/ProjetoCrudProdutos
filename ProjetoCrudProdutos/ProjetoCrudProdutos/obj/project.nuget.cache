@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GDkSrHoMoAwHLbOsBtD8+k44YIQl9AWNarbPO35xkPgzEVZDxHHwH3oQ5z2Sbqc4RZVPsnFCzIrdJ8eCMctV9A==",
+  "dgSpecHash": "kVXl58tQS+8HQjbXho4gpiCg6DrDcLM3ygEjhbTAzN7jx/JS4fzyu0GYXqlodl55oWBJmPBT6BZwFfnf3hjfPg==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.csproj",
+  "projectFilePath": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

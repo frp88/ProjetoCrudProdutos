@@ -1,9 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProjetoCrudProdutos.Application;
-using ProjetoCrudProdutos.Data.Context;
 using ProjetoCrudProdutos.Domain;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace ProjetoCrudProdutos.Controllers {
 
@@ -12,25 +9,13 @@ namespace ProjetoCrudProdutos.Controllers {
 
     public class ProdutosController : ControllerBase {
 
-        private readonly ProjetoCrudProdutosContext _context;
-        private ProdutosService _produtosService;
+        
+        private readonly IProdutoService _produtosService;
         #region CONSTRUTOR
-        public ProdutosController(ProjetoCrudProdutosContext context) {
-            _context = context;
-            _produtosService = new ProdutosService(_context);
+            public ProdutosController(IProdutoService produtosService) {
+            _produtosService = produtosService;
 
 
-            //// Verifica se já tem produtos cadastrados na tabela do BD
-            //int totalProdutosCadastrados = _context.Produtos.Count();
-            //if (totalProdutosCadastrados == 0) {
-            //    // Retorna 5 produtos criados previamente na classe em que foi implementado o padrão "Singleton"
-            //    List<Produto> listaProdutos = CriaProdutosSingleton.ProdutosCriados();
-            //    foreach (Produto produto in listaProdutos) {
-            //        // Salva cada Produto na tabela do BD
-            //        _context.Add(produto);
-            //        _context.SaveChanges();
-            //    }
-            //}
         }
         #endregion
 

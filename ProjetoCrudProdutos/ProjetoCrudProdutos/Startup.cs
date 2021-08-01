@@ -6,6 +6,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using Microsoft.EntityFrameworkCore;
 using ProjetoCrudProdutos.Data.Context;
+using ProjetoCrudProdutos.Application;
 
 namespace ProjetoCrudProdutos {
     public class Startup {
@@ -24,6 +25,8 @@ namespace ProjetoCrudProdutos {
                 context => context.UseSqlServer(Configuration.GetConnectionString("Default"))
             );
 
+            // Adiciona o Servico no escopo da Aplicacacão
+            services.AddScoped<IProdutoService, ProdutoService>();
 
             services.AddControllers();
             services.AddSwaggerGen(c => {

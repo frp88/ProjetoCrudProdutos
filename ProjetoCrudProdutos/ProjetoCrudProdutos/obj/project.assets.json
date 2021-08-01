@@ -5949,9 +5949,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.csproj",
-      "projectName": "ProjetoCrudProdutos",
-      "projectPath": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.API.csproj",
+      "projectName": "ProjetoCrudProdutos.API",
+      "projectPath": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos.API.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
       "outputPath": "D:\\Documentos\\GitHub\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\ProjetoCrudProdutos\\obj\\",
       "projectStyle": "PackageReference",
