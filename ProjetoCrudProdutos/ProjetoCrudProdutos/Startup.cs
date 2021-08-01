@@ -21,11 +21,11 @@ namespace ProjetoCrudProdutos {
 
             // Define o contexto que sera utilizado
             services.AddDbContext<ProjetoCrudProdutosContext>(
-                // Referencia o BD
+                // Referencia o DB
                 context => context.UseSqlServer(Configuration.GetConnectionString("Default"))
             );
 
-            // Adiciona o Servico no escopo da Aplicacacão
+            // Adiciona o Servico (Application) no escopo da API
             services.AddScoped<IProdutoService, ProdutoService>();
 
             services.AddControllers();

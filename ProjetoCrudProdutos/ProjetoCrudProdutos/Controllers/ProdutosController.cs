@@ -9,13 +9,10 @@ namespace ProjetoCrudProdutos.Controllers {
 
     public class ProdutosController : ControllerBase {
 
-        
         private readonly IProdutoService _produtosService;
         #region CONSTRUTOR
-            public ProdutosController(IProdutoService produtosService) {
+        public ProdutosController(IProdutoService produtosService) {
             _produtosService = produtosService;
-
-
         }
         #endregion
 
@@ -23,7 +20,6 @@ namespace ProjetoCrudProdutos.Controllers {
         // GET: api/produtos
         [HttpGet]
         public IActionResult Get() {
-            //var produtos = _context.Produtos;
             var produtos = _produtosService.Buscar();
             if (produtos == null)
                 return NotFound();
@@ -34,8 +30,6 @@ namespace ProjetoCrudProdutos.Controllers {
         // GET api/produtos/{id}
         [HttpGet("{id}")]
         public IActionResult Get(long id) {
-            //var produto = _context.Produtos.FirstOrDefault(
-            //            p => p.Id == id);
             var produto = _produtosService.BuscarPorId(id);
             if (produto == null)
                 return NotFound();
@@ -46,9 +40,6 @@ namespace ProjetoCrudProdutos.Controllers {
         // GET api/produtos/buscar/{nome}
         [HttpGet("buscar/{nome}")]
         public IActionResult Get(string nome) {
-            //var produtos = _context.Produtos.Where(
-            //     p => p.Nome.Contains(nome));
-            //if (produtos == null || produtos.ToList().Count == 0)
             var produtos = _produtosService.BuscarPorNome(nome);
             if (produtos == null)
                 return NotFound();
@@ -71,11 +62,6 @@ namespace ProjetoCrudProdutos.Controllers {
         [HttpPost]
         public IActionResult Post([FromBody] Produto novoProduto) {
             Produto produtoAdicionado = _produtosService.Adicionar(novoProduto);
-            //var produto = new Produto(novoProduto.Nome, novoProduto.Estoque, novoProduto.Valor);
-
-            // Salva o Produto no BD
-            //_context.Add(produto);
-            //_context.SaveChanges();
 
             return Created("", produtoAdicionado);
         }
@@ -83,19 +69,7 @@ namespace ProjetoCrudProdutos.Controllers {
         // PUT api/produtos/{id}
         [HttpPut("{id}")]
         public IActionResult Put(long id, [FromBody] Produto produtoAtualizado) {
-            //var produto = _context.Produtos.FirstOrDefault(
-            //      p => p.Id == id);
-
-            //if (produto == null)
-            //    return NotFound();
-
-            //produto.AtualizarProduto(produtoAtualizado.Nome, produtoAtualizado.Estoque, produtoAtualizado.Valor);
-
-            //_context.Update(produto);
-            //// Atualiza o Produto no BD
-            //_context.SaveChanges();
-
-            produtoAtualizado = _produtosService.Atualizar(id, produtoAtualizado); 
+            produtoAtualizado = _produtosService.Atualizar(id, produtoAtualizado);
             if (produtoAtualizado == null)
                 return NotFound();
 
@@ -111,17 +85,6 @@ namespace ProjetoCrudProdutos.Controllers {
 
             return NoContent();
 
-            //var produto = _context.Produtos.FirstOrDefault(
-            //       p => p.Id == id);
-
-            //if (produto == null)
-            //    return NotFound();
-
-            //_context.Remove(produto);
-            //// Remove o Produto do BD
-            //_context.SaveChanges();
-
-            //return NoContent();
         }
         #endregion
     }
