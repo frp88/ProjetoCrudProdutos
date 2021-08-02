@@ -26,4 +26,4 @@ Projeto criado utilizando o template “*API Web do ASP.NET Core*” em que fora
 
 Além disso, este projeto possui a pasta “*Controllers*”, que contém a classe “*ProdutosController.cs*” que implementa a interface “*ControllerBase*”. Nessa classe foram definidas as rotas da APIs que retornam “*ActionResults*”. Essa classe acessa os métodos da classe “*ProdutoService.cs*” do projeto “*ProjetoCrudProdutos.Application*” para a realização dos CRUDs e retorno dos dados das consultas. A Web API desenvolvida foi testada no Swagger e no Postman. 
 
-Para maiores detalhes ou caso tenha alguma dúvida entre em contato: *fernandorroberto@gmail.com* :+1
+Para maiores detalhes ou caso tenha alguma dúvida entre em contato: *fernandorroberto@gmail.com* 👍
