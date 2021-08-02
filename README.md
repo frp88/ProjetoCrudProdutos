@@ -1,6 +1,6 @@
 # Mini Projeto para realizar um CRUD de Produtos
 Neste projeto foram implementadas as seguintes funcionalidades: Cadastrar produto; Atualizar um produto; Remover produto; Listar produtos; Listar um produto específico (pelo ID do produto); Ordenar os produtos por diferentes campos e por ordem crescente ou decrescente; e Listar produtos pelo nome. Este projeto foi implementado utilizando o framework .NET 5 e os dados foram persistidos com o Entity Framework no banco de dados Sql Server (db-first).
-Neste projeto foi desenvolvido uma solução em .NET 5 chamada “ProjetoCrudProdutos”. Esta solução é composta por 4 (quatro) projetos: 1) ProjetoCrudProdutos.API; 2) ProjetoCrudProdutos.Application; 3) ProjetoCrudProdutos.Data; 4) ProjetoCrudProdutos.Domain.
+Neste projeto foi criada uma solução chamada “ProjetoCrudProdutos”. Esta solução é composta por 4 (quatro) projetos: 1) ProjetoCrudProdutos.API; 2) ProjetoCrudProdutos.Application; 3) ProjetoCrudProdutos.Data; 4) ProjetoCrudProdutos.Domain.
 # Projeto “ProjetoCrudProdutos.Domain” 
 Possui a classe “Produto.cs”, que contém as propriedades do produto, as validações e definições das propriedades automáticas, como definição de data de cadastro e de atualização geradas pelo próprio domínio / modelo. Além disso, o requisito funcional “O valor do produto não pode ser negativo” foi tratado nesta classe. 
 # Projeto “ProjetoCrudProdutos.Data” 
